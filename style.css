@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #232540;
+    font-family: 'Quicksand', sans-serif;
+    color: white;
+}
+
+.card-img-top {
+    border-radius: 10px;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+}
+
+.image-div {
+    margin-top: 15px;
+    margin-left: 15px;
+    display: inline;
+}
+
+div p {
+    font-size: 14px;
+}
+
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.card {
+    margin: 5px;
+}
+
+.card-header {
+    background-color: rgb(128, 74, 189);
+}
+
+select {
+    margin-right: 350px;
+}
+
+.down {
+    background-color: rgb(128, 74, 189);
+}
+
+.tvmaze {
+    color:rgb(255, 255, 255);
+}
